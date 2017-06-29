@@ -1,0 +1,12 @@
+commit 00a49cdeaba6f8d2b767bd100a70690ce166c876
+Author: Tousif Chowdhury <tac5780@cs.rit.edu>
+Date:   Thu Oct 1 23:23:25 2015 -0400
+
+    The project was half way completed. I did not finish
+    but this is all i got.
+
+commit 65edfc09579b464794db5c5aaf7aa3cbbec8d038
+Author: Tousif Chowdhury <tac5780@cs.rit.edu>
+Date:   Sat Sep 26 21:21:22 2015 -0400
+
+    I added a baord function that draws out the board. It is a basic baord

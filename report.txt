@@ -1,0 +1,77 @@
+Assignment Report
+Assignment name is: Segregation
+My name is: 	Tousif Chowdhury
+My login ID is:	tac5780
+
+[insert your answers after the question and add more lines as needed.]
+
+[PLEASE MAKE YOUR ANSWERS SHORT AND TO THE POINT. BULLET POINTS ARE GOOD.]
+
+============= PROGRAM STATUS ==============
+
+What is the status of the program?
+	[e.g. does it crash, infinite loop when it should not, other?]
+The status of my program is that the print works, but I could not implement
+the interactive mode. 
+
+
+
+How does your move algorithm work?
+I have a struct of sad players and it has a sign, row and col. I compare 
+the sadness of each place that does not have a '.' and if it is less 
+than segregation rate, then I add it to the struct list. I then move the 
+structs with the board spaces that are empty. 
+
+
+
+============= SEGREGATION SIMULATION ANALYSIS ==============
+
+Using a grid size of 10, what satisfaction, vacancy, and proportion percentages
+did you find most revealing?
+It splits the city in half, poor and rich, and the border is the 
+vacancy spot. 
+
+
+
+How well did your program illustrate and support the segregation theory?
+My program did not do it to well, but if ran enough times it segregated 
+enough.
+
+
+
+How did this assignment change your views on segregation and social policy?
+It shows how in real life that there is actual segregation and that 
+no matter how hard we try to change it, it is in our nature to move 
+towards people who are similar to us. This happens everywhere.
+
+
+
+============= GENERAL PROJECT FEEDBACK ==============
+
+What did I learn?
+I leared that segration is always around and it happens. I learned how 
+2-D arrays work. I learned how pointers worked. I did not learn 
+that much to be honest. 
+
+
+
+What was easy about this assignment?
+It was not too easy, I struggled alot.
+
+
+
+What gave you problems or troubles?
+The interactive mode gave me the most problems. 
+
+
+
+What should the instructor do to improve this assignment?
+Not have an interactive mode to be honest. 
+
+
+
+What would you have liked to do in this assignment?
+Nothing much really. 
+
+
+
